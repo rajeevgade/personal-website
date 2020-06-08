@@ -54,24 +54,32 @@ export default {
         return {
             portfolio_items: [
                 {
+                    title: 'Anime Discovery App', 
+                    image: 'anime_535x400.png', 
+                    url: 'https://anime-one.now.sh/', 
+                    skills: 'Vue.js, JavaScript, Node.js, Webpack, Babel, Axios, Quasar', 
+                    client: 'Own', 
+                    dates: 'May 2020', 
+                    others: [],
+                    description: 'Anime Discovery App'
+                },
+                {
                     title: 'Online Restaurant Ordering System', 
                     image: 'savemymenu_535x400.png', 
                     url: 'https://www.savemymenu.com/', 
                     skills: 'Laravel, Vue.js, JavaScript, PHP, MySQL, Node.js, Composer, Webpack, Babel, OAuth 2.0, JWT, Blade, AWS, Bootstrap', 
                     client: 'Own', 
-                    start_date: 'May 2019', 
-                    end_date: 'Ongoing',
+                    dates: 'May 2019 - Aug 2019', 
                     others: ['savemymenu_2_535x400.png'],
                     description: 'Online Restaurant Ordering System built using Laravel and Vue'
                 },
                 {
                     title: '360&deg; Product Viewer', 
                     image: 'vue-360-viewer.gif', 
-                    url: 'http://rajeevgade.github.io/portfolio/vue-360-viewer/index.html', 
+                    url: 'https://vue-360.now.sh/', 
                     skills: 'Vue.js, JavaScript, Node.js, NPM, Webpack, Babel, HTML5, CSS3', 
                     client: 'Own', 
-                    start_date: 'Jan 2020', 
-                    end_date: '',
+                    dates: 'Jan 2020', 
                     others: ['vue-360-viewer.png'],
                     description: 'Viewer for 360 Products built on Vue.js'
                 },
@@ -81,8 +89,7 @@ export default {
                     url: 'http://rajeevgade.github.io/portfolio/vue-quiz-app/index.html', 
                     skills: 'Vue.js, JavaScript, Node.js, NPM, Webpack, Babel, HTML5, CSS3', 
                     client: 'Own', 
-                    start_date: 'Jan 2020', 
-                    end_date: '',
+                    dates: 'Jan 2020',
                     others: ['vue_quiz_app_2_535x400.png', 'vue_quiz_app_3_535x400.png'],
                     description: 'Quiz app built for fun using vue.js'
                 },
@@ -92,8 +99,7 @@ export default {
                     url: 'http://www.atpmedia.com/360/', 
                     skills: 'Laravel, PHP, MySQL, OAuth 2.0, jQuery, JS, HTML, CSS', 
                     client: 'ATP', 
-                    start_date: 'Nov 2018', 
-                    end_date: 'Feb 2019',
+                    dates: 'Nov 2018 - Feb 2019',
                     others: [],
                     description: 'Admin Panel for Managing 360&deg; Products'
                 },
@@ -103,8 +109,7 @@ export default {
                     url: 'http://www.atpmedia.com/360/', 
                     skills: 'Node.js, Electron.js, ES6, Bootstrap, HTML, JS, Webpack', 
                     client: 'ATP', 
-                    start_date: 'Mar 2018', 
-                    end_date: 'Dec 2018',
+                    dates: 'Mar 2018 - Dec 2018',
                     others: [],
                     description: 'Desktop Apps built using Electron and Node'
                 },
@@ -114,8 +119,7 @@ export default {
                     url: '#', 
                     skills: 'Laravel, Vue.js, PHP, MySQL, HTML, CSS, jQuery, Ajax, JavaScript, XML, JSON, Bootstrap, Codeigniter, Apache, Analytics', 
                     client: 'Multiple Clients', 
-                    start_date: 'Jun 2016', 
-                    end_date: 'Present',
+                    dates: 'Jun 2016 - Present', 
                     others: ['4_535x400.png', '6_535x400.png'],
                     description: 'Learning Management Systems initially built on Codeigniter and upgraded over to use Laravel and Vue'
                 },
@@ -125,8 +129,7 @@ export default {
                     url: '#', 
                     skills: 'Three JS, Knockout JS, Bootstrap, Silex, Codeigniter, PHP, MySQL, HTML, CSS, JS', 
                     client: 'NJATC', 
-                    start_date: 'Oct 2016', 
-                    end_date: 'Jun 2017',
+                    dates: 'Oct 2016 - Jun 2017', 
                     others: [],
                     description: 'Viewer built for displaying 3D Models (.obj and .mtl files)'
                 },
@@ -136,8 +139,7 @@ export default {
                     url: '#', 
                     skills: 'JavaScript, HTML5, CSS3', 
                     client: 'NJATC', 
-                    start_date: 'Jun 2017', 
-                    end_date: 'Nov 2017',
+                    dates: 'Jun 2017 - Nov 2017', 
                     others: [],
                     description: 'Viewer built for displaying 3D Models (.obj and .mtl files)'
                 },
@@ -147,8 +149,7 @@ export default {
                     url: '#', 
                     skills: 'PHP, jQuery, Parsley, HTML, CSS and JavaScript', 
                     client: 'IEC',
-                    start_date: 'Jun 2017', 
-                    end_date: 'Nov 2017',
+                    dates: 'Jun 2017 - Nov 2017', 
                     others: [],
                     description: 'Online Video Testimonial Submission'
                 },
@@ -158,8 +159,7 @@ export default {
                     url: '#', 
                     skills: 'PHP, XMLDB, MySQL, Moodle', 
                     client: 'IEC',
-                    start_date: 'Aug 2016', 
-                    end_date: 'Dec 2016',
+                    dates: 'Aug 2016 - Dec 2016',
                     others: ['iec2_535x400.png'],
                     description: 'Developed 4 Moodle Plugins'
                 },
@@ -169,8 +169,7 @@ export default {
                     url: 'http://www.everestpackers.com/', 
                     skills: 'HTML, CSS, JS, Bootstrap, jQuery, AWS', 
                     client: 'Everest',
-                    start_date: 'Oct 2018', 
-                    end_date: 'Sep 2018',
+                    dates: 'Oct 2018 - Sep 2018',
                     others: [],
                     description: 'Website for Packers &amp; Movers'
                 },
@@ -180,8 +179,7 @@ export default {
                     url: '#', 
                     skills: 'PHP, OpenCart, MySQL, HTMl, JS, CSS', 
                     client: 'Mulitple Clients',
-                    start_date: 'Oct 2015', 
-                    end_date: 'Sep 2015',
+                    dates: 'Oct 2015 - Sep 2015',
                     others: ['ecommerce2_535x400.png'],
                     description: 'E-Commerce websites built using OpenCart'
                 },

@@ -22,22 +22,22 @@
                         <p class="separator"></p>
                         <p class="text-white"><b>Digital Media Programmer</b></p>
                         <p class="text-orange">The ATP Group, Inc.</p>
-                        <p><span class="date"><b-icon size="is-small" icon="calendar-blank" /> 2016 - present</span></p>
+                        <p><span class="date"><!-- <b-icon size="is-small" icon="calendar-blank" /> --> 2016 - present</span></p>
                         
                         <p class="separator"></p>
                         <p class="text-white"><b>Software Developer</b></p>
                         <p class="text-orange">Netxcell Pvt Ltd.</p>
-                        <p><span class="date"><b-icon size="is-small" icon="calendar-blank" /> 2013 - 2014</span></p>
+                        <p><span class="date"><!-- <b-icon size="is-small" icon="calendar-blank" />  -->2013 - 2014</span></p>
 
                         <p class="separator"></p>
                         <p class="text-white"><b>Web Developer</b></p>
                         <p class="text-orange">Focus I Pvt Ltd.</p>
-                        <p><span class="date"><b-icon size="is-small" icon="calendar-blank" /> 2012 - 2013</span></p>
+                        <p><span class="date"><!-- <b-icon size="is-small" icon="calendar-blank" /> --> 2012 - 2013</span></p>
 
                         <p class="separator"></p>
                         <p class="text-white"><b>Web Developer Intern</b></p>
                         <p class="text-orange">Focus I Pvt Ltd.</p>
-                        <p><span class="date"><b-icon size="is-small" icon="calendar-blank" /> 2012 - 2013</span></p>
+                        <p><span class="date"><!-- <b-icon size="is-small" icon="calendar-blank" /> --> 2012 - 2013</span></p>
                     </div>
                 </div>
                 <div class="tile is-parent">
@@ -49,17 +49,17 @@
                         <p class="separator"></p>
                         <p class="text-white"><b>Masters in Computer Science</b></p>
                         <p class="text-orange">Northeastern Illinois University</p>
-                        <p><span class="date"><b-icon size="is-small" icon="calendar-blank" /> 2014 - 2016</span></p>
+                        <p><span class="date"><!-- <b-icon size="is-small" icon="calendar-blank" /> --> 2014 - 2016</span></p>
                         
                         <p class="separator"></p>
                         <p class="text-white"><b>Bachelors in Computer Science</b></p>
                         <p class="text-orange">Jawaharlal Nehru Technological University</p>
-                        <p><span class="date"><b-icon size="is-small" icon="calendar-blank" /> 2008 - 2012</span></p>
+                        <p><span class="date"><!-- <b-icon size="is-small" icon="calendar-blank" /> --> 2008 - 2012</span></p>
 
                         <p class="separator"></p>
                         <p class="text-white"><b>Board of Intermediary Education</b></p>
                         <p class="text-orange">Narayana Junior College</p>
-                        <p><span class="date"><b-icon size="is-small" icon="calendar-blank" /> 2006 - 2008</span></p>
+                        <p><span class="date"><!-- <b-icon size="is-small" icon="calendar-blank" /> --> 2006 - 2008</span></p>
                     </div>
                 </div>
                 <div class="tile is-parent">
