@@ -9,6 +9,9 @@
         <h1 class="title text-white">
           Rajeev Gade
         </h1>
+        <h1 class="title text-orange">
+          <TextRotator :rotateData="rotateData"/>
+        </h1>
       </div>
     </div>
 
@@ -33,6 +36,7 @@
 import About from '~/components/About'
 import Portfolio from '~/components/Portfolio'
 import Contact from '~/components/Contact'
+import TextRotator from '~/components/TextRotator'
 
 export default {
   name: 'HomePage',
@@ -40,7 +44,8 @@ export default {
   components: {
     About,
     Portfolio,
-    Contact
+    Contact,
+    TextRotator
   },
 
   data() {
@@ -51,7 +56,8 @@ export default {
         { name: 'Contact', title: 'Get', subtitle: 'in Touch' }
       ],
       selectedComponent: null,
-      isComponentModalActive: false
+      isComponentModalActive: false,
+      rotateData: ['Creative', 'Tech Savvy', 'Developer']
     }
   },
 
@@ -106,5 +112,9 @@ body{
 
 body{
   height: calc(100vh);
+}
+
+.cursor-pointer{
+  cursor: pointer;
 }
 </style>
