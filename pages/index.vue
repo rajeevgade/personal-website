@@ -73,7 +73,7 @@ export default {
 
 <style>
 
-body{
+body, .container{
   background-color: #111;
 }
 
@@ -104,10 +104,6 @@ body{
 
 .text-orange{
   color: #ffb400;
-}
-
-.hero-body{
-  margin-bottom: 50px;
 }
 
 body{
