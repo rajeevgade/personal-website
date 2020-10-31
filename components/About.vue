@@ -20,24 +20,29 @@
                         </p>
 
                         <p class="separator"></p>
-                        <p class="text-white"><b>Digital Media Programmer</b></p>
+                        <p class="text-white"><b>Senior Full Stack Developer</b></p>
+                        <p class="text-orange">Spirit Hub</p>
+                        <p><span class="date"><!-- <b-icon size="is-small" icon="calendar-blank" /> --> Sep 2020 - present</span></p>
+
+                        <p class="separator"></p>
+                        <p class="text-white"><b>Full Stack Developer</b></p>
                         <p class="text-orange">The ATP Group, Inc.</p>
-                        <p><span class="date"><!-- <b-icon size="is-small" icon="calendar-blank" /> --> 2016 - present</span></p>
+                        <p><span class="date"><!-- <b-icon size="is-small" icon="calendar-blank" /> --> Jun 2016 - Sep 2020</span></p>
                         
                         <p class="separator"></p>
                         <p class="text-white"><b>Software Developer</b></p>
                         <p class="text-orange">Netxcell Pvt Ltd.</p>
-                        <p><span class="date"><!-- <b-icon size="is-small" icon="calendar-blank" />  -->2013 - 2014</span></p>
+                        <p><span class="date"><!-- <b-icon size="is-small" icon="calendar-blank" />  --> Aug 2013 - Aug 2014</span></p>
 
                         <p class="separator"></p>
                         <p class="text-white"><b>Web Developer</b></p>
                         <p class="text-orange">Focus I Pvt Ltd.</p>
-                        <p><span class="date"><!-- <b-icon size="is-small" icon="calendar-blank" /> --> 2012 - 2013</span></p>
+                        <p><span class="date"><!-- <b-icon size="is-small" icon="calendar-blank" /> --> Aug 2012 - Aug 2013</span></p>
 
                         <p class="separator"></p>
                         <p class="text-white"><b>Web Developer Intern</b></p>
                         <p class="text-orange">Focus I Pvt Ltd.</p>
-                        <p><span class="date"><!-- <b-icon size="is-small" icon="calendar-blank" /> --> 2012 - 2013</span></p>
+                        <p><span class="date"><!-- <b-icon size="is-small" icon="calendar-blank" /> --> Jan 2012 - Jul 2012</span></p>
                     </div>
                 </div>
                 <div class="tile is-parent">

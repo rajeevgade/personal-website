@@ -140,6 +140,16 @@ export default {
                     description: 'Viewer for 360 Products built on Vue.js'
                 },
                 {
+                    title: 'Website for Dental Hospital', 
+                    image: 'dentist_535x400.png', 
+                    url: 'https://dental.vercel.app/', 
+                    skills: 'Vue.js, Nuxt.js, Bulma, JavaScript', 
+                    client: 'Diehl', 
+                    dates: 'Aug 2020', 
+                    others: [],
+                    description: 'Website for Dental Hospital'
+                },
+                {
                     title: 'Simple Quiz App', 
                     image: 'vue_quiz_app_535x400.png', 
                     url: 'http://rajeevgade.github.io/portfolio/vue-quiz-app/index.html', 
